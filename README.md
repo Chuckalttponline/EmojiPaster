@@ -5,7 +5,7 @@ Made By me Chuck in AutoHotKey v2.
 
 ## Installation
 
-If you want the emoji macro active even after a restart Press [Win]+[R] in the dialog paste `Shell:startup` hit Ok or Enter. Then Drop `EmojiPaster.exe` in the folder and run it. This will start it up every time your PC is booted up.
+If you want the emoji macro active even after a restart you may put it in your start up folder, Press [Win]+[R] in the dialog paste `Shell:startup` hit Ok or Enter. Then Drop `EmojiPaster.exe` in the folder and run it. This will start it up every time your PC is booted up.
 
 ## Commands
 
