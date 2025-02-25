@@ -192,11 +192,13 @@
 
 SendEmoji(Emoji) {
 	If(WinActive("NSMB-MarioVsLuigi") or WinActive("NSMBVersus: vic's Custom Match-inator")) {
-		OldClipboard := ClipboardAll
+		OldClipboard := A_Clipboard
 			A_Clipboard := Emoji
 			ClipWait
+			Sleep(100)
 			Send("^v")
-		ClipboardAll := OldClipboard
+			Sleep(100)
+		A_Clipboard := OldClipboard
 	} Else {
 		Send(Emoji)
 	}
