@@ -1,6 +1,6 @@
 # Description
 
-This script allows you to quickly insert emojis using [dot]+[EmojiName] Or [EmojiName]+[3 Spaces] Which ever you prefer.
+This script allows you to quickly insert\Paste\Type emojis using [dot]+[EmojiName] Or [EmojiName]+[3 Spaces] Which ever you prefer.
 Made By me Chuck in AutoHotKey v2.
 
 ## Installation
