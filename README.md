@@ -42,3 +42,7 @@ If you want the emoji macro active even after a restart you may put it in your s
 | Heart         | ❤️      |
 | Poop          | 💩      |
 | Fire          | 🔥      |
+
+## Special Features
+
+If you are playing the fan game `NSMB-MarioVsLuigi` or `NSMBVersus: vic's Custom Match-inator` EmojiPaster Will use the clipboard because of compatibility issues.
