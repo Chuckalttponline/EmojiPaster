@@ -1,6 +1,7 @@
 # Emoji Command Script
 
-This script allows you to quickly insert emojis using [dot] [EmojiName] Or [EmojiName] [3Spaces] in AutoHotKey v2.
+This script allows you to quickly insert emojis using [dot] [EmojiName] Or [EmojiName] [3Spaces]
+Made By me Chuck in AutoHotKey v2.
 
 ## Commands
 
