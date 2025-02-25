@@ -11,34 +11,34 @@ If you want the emoji macro active even after a restart you may put it in your s
 
 | Command        | Emoji  |
 |----------------|--------|
-| .Smile         | 😊      |
-| .Happy         | 😁      |
-| .SmileTeeth    | 😁      |
-| .HappyTeeth    | 😁      |
-| .BigSmile      | 😁      |
-| .Laughing      | 😂      |
-| .XD            | 😂      |
-| .ROFL          | 🤣      |
-| .ROTFL         | 🤣      |
-| .LMAO          | 🤣🤣🤣  |
-| .Lol           | 🤣      |
-| .HeartEyes     | 😍      |
-| .Heart Eyes    | 😍      |
-| .Love          | 😍      |
-| .Sad           | 😥      |
-| .Tear          | 😥      |
-| .Crying        | 😭      |
-| .Angry         | 😡      |
-| .Mad           | 😡      |
-| .Scream        | 😱      |
-| .Wink          | 😜      |
-| .Cool          | 😎      |
-| .ThumbsUp      | 👍      |
-| .ThumbsDown    | 👎      |
-| .Thumbs Up     | 👍      |
-| .Thumbs Down   | 👎      |
-| .Clap          | 👏      |
-| .Pray          | 🙏      |
-| .Heart         | ❤️      |
-| .Poop          | 💩      |
-| .Fire          | 🔥      |
+| Smile         | 😊      |
+| Happy         | 😁      |
+| SmileTeeth    | 😁      |
+| HappyTeeth    | 😁      |
+| BigSmile      | 😁      |
+| Laughing      | 😂      |
+| XD            | 😂      |
+| ROFL          | 🤣      |
+| ROTFL         | 🤣      |
+| LMAO          | 🤣🤣🤣  |
+| Lol           | 🤣      |
+| HeartEyes     | 😍      |
+| Heart Eyes    | 😍      |
+| Love          | 😍      |
+| Sad           | 😥      |
+| Tear          | 😥      |
+| Crying        | 😭      |
+| Angry         | 😡      |
+| Mad           | 😡      |
+| Scream        | 😱      |
+| Wink          | 😜      |
+| Cool          | 😎      |
+| ThumbsUp      | 👍      |
+| ThumbsDown    | 👎      |
+| Thumbs Up     | 👍      |
+| Thumbs Down   | 👎      |
+| Clap          | 👏      |
+| Pray          | 🙏      |
+| Heart         | ❤️      |
+| Poop          | 💩      |
+| Fire          | 🔥      |
